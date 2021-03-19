@@ -1,5 +1,5 @@
 # Class Project: Computer Architecture and Assembly Language
-## IO Processing Program
+## I/O Processing Program
 
 This is a low-level input/output processing program written in assembly language. Gets integers from the user, converts the string input into numeric input, then calculates the sum and average, and finally, the program converts the integers back into string output and displays all calculations to the user. 
 
