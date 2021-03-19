@@ -2,9 +2,6 @@ TITLE Project 6    (Proj6_BYBEESH.asm)
 
 ; Author: Shauna Bybee
 ; Last Modified: 12/1/2020
-; OSU email address: bybeesh@oregonstate.edu
-; Course number/section:   CS271 Section 400
-; Project Number: 6               Due Date: 12/6/2020
 ; Description:  Gets integers from the user, converts the string input to numeric data, stores the values of the integers,
 ;				then displays the integers, along with the sum and the average.
 
