@@ -3,7 +3,7 @@
 
 This is a low-level input/output processing program written in assembly language. Gets integers from the user, converts the string input into numeric input, then calculates the sum and average, and finally, the program converts the integers back into string output and displays all calculations to the user. 
 
-## Project Requirements:
+## Project Requirements
 * Implement and test two macros for string processing. These macros may use Irvine’s ReadString to get input from the user, and WriteString procedures to display output.
     * mGetSring:  Display a prompt (input parameter, by reference), then get the user’s keyboard input into a memory location (output parameter, by reference). You may also need to provide a count (input parameter, by value) for the length of input string you can accommodate and a provide a number of bytes read (output parameter, by reference) by the macro.
     * mDisplayString:  Print the string which is stored in a specified memory location (input parameter, by reference).
